@@ -1,4 +1,4 @@
-basic.forever(function () {
+input.onButtonPressed(Button.AB, function () {
     basic.showLeds(`
         . # . # .
         . # . # .

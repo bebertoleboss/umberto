@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="I1DVWDiS+low7*L3Q;ge" x="192" y="208"></block><block type="device_forever" id="Z{DqbL+kME(MRy0D!s`k" x="520" y="439"><statement name="HANDLER"><block type="device_show_leds" id="1ZB=-22/Uz%EF]!1a!(["><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_button_event" id="poVT#:uT,xv]Mx^%RN-]" x="0" y="0"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="1ZB=-22/Uz%EF]!1a!(["><field name="LEDS">`
         . # . # . 
         . # . # . 
         . # # # . 
@@ -34,4 +34,4 @@
         . . # . . 
         . . . . . 
         . . # . .
-        `</field></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_print_message" id="3O.9~[mhFg!}qS$Hf84D" disabled-reasons="pxt_automatic_disabled" x="1039" y="648"><value name="text"><shadow type="text" id="$db7-FDbILMn@p4MnXj/" disabled-reasons="pxt_automatic_disabled"><field name="TEXT">Hello !</field></shadow></value></block></xml>
+        `</field></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
