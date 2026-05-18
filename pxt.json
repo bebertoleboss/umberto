@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "brightboard": "github:brightwearables/pxt-microbit-brightboard#v0.7.2",
+        "TM1637": "github:makecode-extensions/tm1637#v1.0.0"
     },
     "files": [
         "main.blocks",
