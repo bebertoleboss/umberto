@@ -1,3 +1,44 @@
 basic.forever(function () {
-    basic.showString("Hello !")
+    basic.showLeds(`
+        . # . # .
+        . # . # .
+        . # # # .
+        . # . # .
+        . # . # .
+        `)
+    basic.showLeds(`
+        . # # # .
+        . # . . .
+        . # # # .
+        . # . . .
+        . # # # .
+        `)
+    basic.showLeds(`
+        . # . . .
+        . # . . .
+        . # . . .
+        . # . . .
+        . # # # .
+        `)
+    basic.showLeds(`
+        . # . . .
+        . # . . .
+        . # . . .
+        . # . . .
+        . # # # .
+        `)
+    basic.showLeds(`
+        . # # # .
+        # . . . #
+        # . . . #
+        # . . . #
+        . # # # .
+        `)
+    basic.showLeds(`
+        . . # . .
+        . . # . .
+        . . # . .
+        . . . . .
+        . . # . .
+        `)
 })

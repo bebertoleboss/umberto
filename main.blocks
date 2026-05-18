@@ -1,1 +1,37 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="I1DVWDiS+low7*L3Q;ge" x="192" y="208"></block><block type="device_forever" id="Z{DqbL+kME(MRy0D!s`k" x="520" y="439"><statement name="HANDLER"><block type="device_print_message" id="3O.9~[mhFg!}qS$Hf84D"><value name="text"><shadow type="text" id="$db7-FDbILMn@p4MnXj/"><field name="TEXT">Hello !</field></shadow></value></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="I1DVWDiS+low7*L3Q;ge" x="192" y="208"></block><block type="device_forever" id="Z{DqbL+kME(MRy0D!s`k" x="520" y="439"><statement name="HANDLER"><block type="device_show_leds" id="1ZB=-22/Uz%EF]!1a!(["><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="1;!(hBar#X~1P`a99_pO"><field name="LEDS">`
+        . # # # . 
+        . # . . . 
+        . # # # . 
+        . # . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="Lw-oAqQgY;3F7~U`HP`{"><field name="LEDS">`
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id=")2?WMU#eaT#3-0x*IFZ+"><field name="LEDS">`
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="0IV:/gzP2fTsypR-_`]0"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="H(uC*uRA/8T_*vOpVA^L"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . . . . 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_print_message" id="3O.9~[mhFg!}qS$Hf84D" disabled-reasons="pxt_automatic_disabled" x="1039" y="648"><value name="text"><shadow type="text" id="$db7-FDbILMn@p4MnXj/" disabled-reasons="pxt_automatic_disabled"><field name="TEXT">Hello !</field></shadow></value></block></xml>
